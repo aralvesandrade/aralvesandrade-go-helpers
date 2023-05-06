@@ -1,0 +1,24 @@
+### Go ###
+# Binaries for programs and plugins
+aralvesandrade-go-helpers
+# Dependency directories
+vendor/
+# Output of the go coverage tool
+*.out
+*.html
+*.htm
+### Visual Studio Code ###
+.vscode/
+### Git ###
+.git/
+### Enviroment ###
+.env
+.env.*
+*env.json
+*credentials.json
+### SonarQube ###
+.scannerwork/
+### Other Files ###
+debug/
+__debug_bin
+.db_data/
