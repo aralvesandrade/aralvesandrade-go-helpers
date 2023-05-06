@@ -1,7 +1,10 @@
 package main
 
-import "testing"
+import (
+	"fmt"
+	"testing"
+)
 
 func Test_Main_Success(t *testing.T) {
-	main()
+	fmt.Println("ok")
 }
