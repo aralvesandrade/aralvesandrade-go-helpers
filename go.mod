@@ -6,7 +6,7 @@ require (
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/sirupsen/logrus v1.9.0
-	gorm.io/gorm v1.24.7-0.20230306060331-85eaf9eeda11
+	gorm.io/gorm v1.25.2-0.20230530020048-26663ab9bf55
 )
 
 require (
@@ -38,6 +38,8 @@ require (
 
 require (
 	github.com/gin-gonic/gin v1.9.0
+	github.com/mattn/go-sqlite3 v1.14.18
 	golang.org/x/sys v0.5.0 // indirect
 	gorm.io/driver/mysql v1.5.0
+	gorm.io/driver/sqlite v1.5.4
 )

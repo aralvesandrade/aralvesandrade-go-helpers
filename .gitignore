@@ -22,3 +22,4 @@ vendor/
 debug/
 __debug_bin
 .db_data/
+*.db
