@@ -22,6 +22,7 @@ type Config struct {
 	Username   string
 	Password   string
 	TimeoutSec int
+	DataSource string
 }
 
 type MySQL struct {
